@@ -1,0 +1,112 @@
+[
+  {
+    "name": "手机淘宝",
+    "compatibility": "Android 4.0 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.taobao.taobao"
+  },
+  {
+    "name": "京东",
+    "compatibility": "Android 4.0 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.jingdong.app.mall"
+  },
+  {
+    "name": "苏宁易购",
+    "compatibility": "Android 4.0 或更高版本",
+    "source": "https://www.coolapk.com/apk/com.suning.mobile.ebuy"
+  },
+  {
+    "name": "高德地图",
+    "compatibility": "Android 4.0 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.autonavi.minimap"
+  },
+  {
+    "name": "钉钉",
+    "compatibility": "Android 4.0 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.alibaba.android.rimet"
+  },
+  {
+    "name": "QQ",
+    "compatibility": "Android 4.0.3 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.tencent.mobileqq"
+  },
+  {
+    "name": "拼多多",
+    "compatibility": "Android 4.0.3 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.xunmeng.pinduoduo"
+  },
+  {
+    "name": "TikTok",
+    "compatibility": "Android 4.1 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically"
+  },
+  {
+    "name": "抖音",
+    "compatibility": "Android 4.1 或更高版本",
+    "source": "https://coolapk.com/apk/com.ss.android.ugc.aweme"
+  },
+  {
+    "name": "UC浏览器",
+    "compatibility": "Android 4.1 或更高版本",
+    "source": " https://www.coolapk.com/apk/com.UCMobile"
+  },
+  {
+    "name": "微博",
+    "compatibility": "Android 4.3 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.sina.weibo"
+  },
+  {
+    "name": "支付宝",
+    "compatibility": "Android 4.3 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.eg.android.AlipayGphone"
+  },
+  {
+    "name": "今日头条",
+    "compatibility": "Android 4.3 或更高版本",
+    "source": "https://www.coolapk.com/apk/com.ss.android.article.news"
+  },
+  {
+    "name": "腾讯视频",
+    "compatibility": "Android 4.4 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.tencent.qqlivei18n.us"
+  },
+  {
+    "name": "QQ音乐",
+    "compatibility": "Android 4.4 或更高版本",
+    "source": "https://www.coolapk.com/apk/com.tencent.qqmusic"
+  },
+  {
+    "name": "微信",
+    "compatibility": "Android 5.0 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.tencent.mm"
+  },
+  {
+    "name": "美团",
+    "compatibility": "Android 5.0 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.sankuai.meituan"
+  },
+  {
+    "name": "饿了么",
+    "compatibility": "Android 5.0 或更高版本",
+    "source": "https://www.coolapk.com/apk/me.ele"
+  },
+  {
+    "name": "滴滴出行",
+    "compatibility": "Android 5.0 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.sdu.didi.psnger"
+  },
+  {
+    "name": "爱奇艺",
+    "compatibility": "Android 5.0 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.iqiyi.i18n"
+  },
+  {
+    "name": "Amazon",
+    "compatibility": "Android 5.0 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping"
+  },
+  {
+    "name": "百度",
+    "compatibility": "Android 5.1 或更高版本",
+    "source": "https://play.google.com/store/apps/details?id=com.baidu.searchbox"
+  }
+]

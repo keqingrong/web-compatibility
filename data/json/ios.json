@@ -1,0 +1,197 @@
+[
+  {
+    "name": "欢乐斗地主",
+    "compatibility": "iOS 8.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/欢乐斗地主/id446324234"
+  },
+  {
+    "name": "开心消消乐",
+    "compatibility": "iOS 8.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/开心消消乐/id791532221"
+  },
+  {
+    "name": "王者荣耀",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/王者荣耀/id989673964"
+  },
+  {
+    "name": "Messenger",
+    "compatibility": "iOS 9.0 和 watchOS 4.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/messenger/id454638411"
+  },
+  {
+    "name": "搜狗输入法",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/搜狗输入法-语音变声斗图表情/id917670924"
+  },
+  {
+    "name": "支付宝",
+    "compatibility": "iOS 9.0 和 watchOS 2.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/支付宝-生活好-支付宝/id333206289"
+  },
+  {
+    "name": "QQ",
+    "compatibility": "iOS 9.0 和 watchOS 4.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/qq/id444934666"
+  },
+  {
+    "name": "手机淘宝",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/手机淘宝-淘到你说好/id387682726"
+  },
+  {
+    "name": "京东",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/京东-不负每一份热爱/id414245413"
+  },
+  {
+    "name": "苏宁易购",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/苏宁易购-好事正当时/id424598114"
+  },
+  {
+    "name": "拼多多",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/拼多多-拼着买-才便宜/id1044283059"
+  },
+  {
+    "name": "微博",
+    "compatibility": "iOS 9.0 和 watchOS 2.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/微博/id350962117"
+  },
+  {
+    "name": "今日头条",
+    "compatibility": "iOS 9.0 和 watchOS 2.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/今日头条/id529092160"
+  },
+  {
+    "name": "抖音",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/抖音/id1142110895"
+  },
+  {
+    "name": "快手",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/快手/id440948110"
+  },
+  {
+    "name": "QQ音乐",
+    "compatibility": "iOS 9.0 和 watchOS 3.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/qq音乐-让生活充满音乐/id414603431"
+  },
+  {
+    "name": "爱奇艺",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/爱奇艺-鹿鼎记首播/id393765873"
+  },
+  {
+    "name": "优酷视频",
+    "compatibility": "iOS 9.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/优酷视频-重生精彩呈现/id336141475"
+  },
+  {
+    "name": "墨迹天气",
+    "compatibility": "iOS 9.0 和 watchOS 2.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/墨迹天气-关心天气更关心你/id434209233"
+  },
+  {
+    "name": "百度地图",
+    "compatibility": "iOS 9.3 和 watchOS 3.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/百度地图-路线规划-出行必备/id452186370"
+  },
+  {
+    "name": "腾讯视频",
+    "compatibility": "iOS 10.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/腾讯视频-有翡独播/id458318329"
+  },
+  {
+    "name": "美团",
+    "compatibility": "iOS 10.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/美团-干啥都省钱/id423084029"
+  },
+  {
+    "name": "美团外卖",
+    "compatibility": "iOS 10.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/美团外卖-外卖订餐-送啥都快/id737310995"
+  },
+  {
+    "name": "饿了么",
+    "compatibility": "iOS 10.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/美团外卖-外卖订餐-送啥都快/id737310995"
+  },
+  {
+    "name": "高德地图",
+    "compatibility": "iOS 10.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/高德地图-精准导航-打车公交地铁出行必备/id461703208"
+  },
+  {
+    "name": "滴滴出行",
+    "compatibility": "iOS 10.0 和 watchOS 4.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/滴滴出行-didi/id554499054"
+  },
+  {
+    "name": "Facebook",
+    "compatibility": "iOS 10.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/facebook/id284882215"
+  },
+  {
+    "name": "Snapchat",
+    "compatibility": "iOS 10.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/snapchat/id447188370"
+  },
+  {
+    "name": "微信",
+    "compatibility": "iOS 11.0 和 watchOS 2.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/微信/id414478124"
+  },
+  {
+    "name": "网易云音乐",
+    "compatibility": "iOS 11.0 和 watchOS 4.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/网易云音乐-音乐的力量/id590338362"
+  },
+  {
+    "name": "‎Instagram",
+    "compatibility": "iOS 11.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/instagram/id389801252"
+  },
+  {
+    "name": "YouTube",
+    "compatibility": "iOS 11.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/youtube/id544007664"
+  },
+  {
+    "name": "Google",
+    "compatibility": "iOS 12.0 或更高版本",
+    "source": "https://apps.apple.com/us/app/google/id284815942"
+  },
+  {
+    "name": "Gmail",
+    "compatibility": "iOS 12.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/gmail-google-推出的电子邮件服务/id422689480"
+  },
+  {
+    "name": "WPS Office",
+    "compatibility": "iOS 12.0 和 watchOS 2.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/wps-office/id599852710"
+  },
+  {
+    "name": "Twitter",
+    "compatibility": "iOS 12.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/twitter/id333903271"
+  },
+  {
+    "name": "Google Chrome",
+    "compatibility": "iOS 12.2 或更高版本",
+    "source": "https://apps.apple.com/cn/app/google-chrome/id535886823"
+  },
+  {
+    "name": "Netflix",
+    "compatibility": "iOS 13.0 或更高版本",
+    "source": "https://apps.apple.com/us/app/netflix/id363590051"
+  },
+  {
+    "name": "Amazon",
+    "compatibility": "iOS 12.0 或更高版本",
+    "source": "https://apps.apple.com/cn/app/亚马逊中国-一站放心购全球/id342576766"
+  }
+]
