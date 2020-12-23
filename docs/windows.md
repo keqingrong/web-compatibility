@@ -11,12 +11,16 @@
 
 ### 谷歌浏览器内嵌框架（Google Chrome Frame）
 
-Google Chrome Frame 是 Google 推出的一款 IE 插件，可以让 IE 浏览器使用 Chrome 内核进行渲染，Chrome Frame 会把最新版的 Chrome Webkit 内核和 JavaScript 引擎注入到IE中。
+Google Chrome Frame 是 Google 推出的一款 IE 插件，可以让 IE 浏览器使用 Chrome 的内核进行渲染，支持 IE 6/7/8/9。
 
 2014年，Google Chrome Frame 发布了最后一个版本，版本号为 32。
 
 注：Chrome Frame 插件虽然可以让 IE 支持 Chrome 浏览器特性，但并不保证所有功能可用。
 比如 `<a>` 的 `download` 属性，虽然 Chrome Frame 支持（`'download' in document.createElement('a')` 为 `true`），但是触发点击事件后不会下载文件。
+
+#### 相关链接
+
+- [Rendering HTML5 in older browsers with Google Chrome Frame](https://webplatform.github.io/docs/tutorials/google_chrome_frame/)
 
 ### Google Chrome
 
