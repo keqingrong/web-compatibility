@@ -13,7 +13,7 @@
 
 Google Chrome Frame 是 Google 推出的一款 IE 插件，可以让 IE 浏览器使用 Chrome 的内核进行渲染，支持 IE 6/7/8/9。
 
-2014年，Google Chrome Frame 发布了最后一个版本，版本号为 32。
+2014 年，Google Chrome Frame 发布了最后一个版本，版本号为 32。
 
 注：Chrome Frame 插件虽然可以让 IE 支持 Chrome 浏览器特性，但并不保证所有功能可用。
 比如 `<a>` 的 `download` 属性，虽然 Chrome Frame 支持（`'download' in document.createElement('a')` 为 `true`），但是触发点击事件后不会下载文件。
@@ -32,10 +32,11 @@ Google Chrome Frame 是 Google 推出的一款 IE 插件，可以让 IE 浏览�
 
 ## 开源项目、网站对浏览器的支持情况
 
-- 2015 年 8 月 19 日，Bootstrap 4.0 Alpha 放弃对 IE8 的支持。  
-- 2016 年 1 月 12 日，**微软放弃对 IE8/IE9/IE10 的支持**。  
-- 2016 年 1 月 14 日，jQuery 3.0 Beta 放弃对 IE8 的支持。  
-- 2016 年 4 月 13 日，淘宝和天猫停止对 IE6/IE7 的支持。  
+- 2015-08-19，Bootstrap 4.0 Alpha 放弃对 IE8 的支持，[来源](https://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)。
+- 2016-01-12，**微软放弃对 IE8/IE9/IE10 的支持**，[来源](https://www.microsoft.com/en-us/microsoft-365/windows/end-of-ie-support)。
+- 2016-01-14，jQuery 3.0 Beta 放弃对 IE8 的支持，[来源](https://blog.jquery.com/2016/01/14/jquery-3-0-beta-released/)。
+- 2016-04-13，淘宝和天猫停止对 IE6/IE7 的支持，[来源](https://zhuanlan.zhihu.com/p/24091492)。
+- 2021-05-19，WordPress 放弃对 IE11 的支持，[来源](https://wordpress.org/news/2021/05/dropping-support-for-internet-explorer-11/)。
 
 ## IE & Edge 对 Web 标准的支持情况
 
@@ -45,7 +46,7 @@ Google Chrome Frame 是 Google 推出的一款 IE 插件，可以让 IE 浏览�
 - HTML5: IE9 开始支持
 - CSS3: IE9 开始支持
 - ES5: IE9 开始支持
-- ES2015: MS Edge 开始支持  
+- ES2015: MS Edge 开始支持
 
 IE8 之前的 IE 版本和 W3C 标准实现不一致，即怪异模式（Quirks Mode）和标准模式（Standards Mode）。
 从 IE8 开始，IE 会默认使用标准模式渲染页面，同时支持用户使用兼容性视图（在兼容性视图中显示 Intranet 站点），来打开那些仅能在 IE6/7 中正常显示的页面。
@@ -61,10 +62,10 @@ IE8 之前的 IE 版本和 W3C 标准实现不一致，即怪异模式（Quirks 
 
 ## IE & Edge 版本历史
 
-- IE6，2001 年发布（伴随 Windows XP 发行）  
-- IE7，2007 年发布（伴随 Windows Vista 发行）  
-- IE8，2008 年发布（支持 Windows 7、Windows Vista 和 Windows XP），同年 Chrome 开始公测  
-- IE9，2011 年发布（支持 Windows 7 和 Windows Vista）  
-- IE10，2012 年发布（伴随 Windows 8 发行，支持 Windows 7）  
-- IE11，2013 年发布（伴随 Windows 8.1 发行，支持 Windows 10、Windows 8 和 Windows 7），最后一版 IE  
-- Microsoft Edge，2015 年发布（伴随 Windows 10 发行）  
+- IE6，2001 年发布（伴随 Windows XP 发行）
+- IE7，2007 年发布（伴随 Windows Vista 发行）
+- IE8，2008 年发布（支持 Windows 7、Windows Vista 和 Windows XP），同年 Chrome 开始公测
+- IE9，2011 年发布（支持 Windows 7 和 Windows Vista）
+- IE10，2012 年发布（伴随 Windows 8 发行，支持 Windows 7）
+- IE11，2013 年发布（伴随 Windows 8.1 发行，支持 Windows 10、Windows 8 和 Windows 7），最后一版 IE
+- Microsoft Edge，2015 年发布（伴随 Windows 10 发行）
